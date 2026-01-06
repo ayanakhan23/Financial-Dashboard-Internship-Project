@@ -1,11 +1,26 @@
-This project is an interactive monthly financial dashboard built in Power BI to monitor revenue, profit, cash flow, and budget vs actuals. 
-It includes 5 KPIs (Total Revenue, Net Cash, Gross Margin %, Budget Variance %, EBITDA %) and 5 visuals like Revenue & Profit Trend, Net Cash Waterfall, Budget vs Actuals,
-Revenue by product/service, and Receivables/Payables Aging.
+Financial Performance Dashboard – Power BI
 
-Features:
+Project Overview -
+This project focuses on building an interactive monthly financial dashboard using Power BI to help stakeholders monitor the company’s financial health and key performance indicators (KPIs).
+The dashboard provides a clear view of revenue trends, profitability, cash flow position, budget vs actual performance, and aging analysis, enabling better financial decision-making.
 
-Dynamic slicers: Date, Region, Product/Service,  Budget Variance %
+Business Objective -
+The main objective of this project is to:
+Track monthly financial performance ,
+Compare actual revenue vs budget ,
+Analyze profitability and margins ,
+Monitor cash inflows and outflows ,  
+Identify receivables and payables aging risks ,
+Provide management with easy-to-use, interactive insights
 
-Drill-down enabled for trends
 
-Professional themed design with clear KPI cards
+Business Insights -
+Revenue and profit trends help identify growth consistency and cost pressure ,
+Budget vs actual analysis highlights over-performance and under-performance ,
+Aging analysis helps identify cash collection and payment risks ,
+Cash flow waterfall clearly shows net cash movement drivers
+
+Conclusion -
+This Power BI dashboard provides a clear, professional, and management-ready financial overview.
+It helps decision-makers quickly understand financial performance, identify risks, and take data-driven actions through interactive visuals and KPIs.
+
